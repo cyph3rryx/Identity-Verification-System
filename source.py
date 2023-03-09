@@ -2,9 +2,9 @@ import face_recognition
 
 # Store the known faces and their names
 known_faces = {
-    "John": face_recognition.load_image_file("john.jpg"),
-    "Sarah": face_recognition.load_image_file("sarah.jpg"),
-    "Mark": face_recognition.load_image_file("mark.jpg")
+    "Ryx": face_recognition.load_image_file("ryx.jpg"),
+    "Gojo": face_recognition.load_image_file("gojo.jpg"),
+    "Kira": face_recognition.load_image_file("kira.jpg")
 }
 
 # Encode the known faces using face_recognition library
